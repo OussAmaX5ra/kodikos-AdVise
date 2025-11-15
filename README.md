@@ -1,16 +1,35 @@
-# Facebook Marketing API Integration - FastAPI
+Facebook Marketing API Integration - FastAPI
+Project Description
 
-A complete FastAPI backend implementing server-side OAuth integration with Facebook Marketing/Graph API, including insights ingestion and secure token storage.
+Advise AI is an AI-powered advertising advisor designed specifically for Algerian e-commerce businesses, local brands, and SMBs who struggle to understand and optimize their online ads.
 
-## Features
+Most merchants spend money blindly on Meta Ads, without knowing why results drop, how to scale properly, or how to fix common issues such as:
 
-- Server-side OAuth 2.0 flow with Facebook
-- Long-lived token exchange and storage
-- Insights ingestion with pagination and error handling
-- JWT-based user authentication
-- SQLite database with SQLAlchemy
-- Placeholder page routes for frontend integration
-- Docker support
+Pixel misconfiguration
+
+Poor targeting & audience overlap
+
+Ineffective creatives
+
+Low conversion tracking & event errors
+
+Advise AI solves this by providing a simple, automated, data-driven advertising assistant that analyzes campaign data and guides users like a real marketing expert, helping them stop wasting money and scale confidently.
+
+Features
+
+Server-side OAuth 2.0 flow with Facebook
+
+Long-lived token exchange and storage
+
+Insights ingestion with pagination and error handling
+
+JWT-based user authentication
+
+SQLite database with SQLAlchemy
+
+Placeholder page routes for frontend integration
+
+Docker support
 
 ## Prerequisites
 
